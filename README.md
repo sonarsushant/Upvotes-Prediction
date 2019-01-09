@@ -1,4 +1,4 @@
-# UserUpvotesPrediction
+# User Upvotes Prediction
 
 This is a problem statement of [Enigma CodeFest Machine Learning](https://datahack.analyticsvidhya.com/contest/enigma-codefest-machine-learning/) organized by Analytics Vidhya. 
 
