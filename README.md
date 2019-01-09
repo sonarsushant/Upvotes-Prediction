@@ -4,7 +4,8 @@ This is a problem statement of [Enigma CodeFest Machine Learning](https://dataha
 
 ## Problem Statement:
 An online question and answer platform has hired you as a data scientist to identify the best question authors on the platform. This identification will bring more insight into increasing the user engagement. Given the tag of the question, number of views received, number of answers, username and reputation of the question author, the problem requires you to predict the upvote count that the question will receive.
-The dataset provided contains 330045 rows and 7 columns.
+
+The dataset provided contains 330045 rows and 7 columns. Please read **Data Dictionary** to get more information about dataset.
 
 ## Solution
 I have done exploratory danalysis of the dataset followed by training a machine learning model to predict Upvotes.
